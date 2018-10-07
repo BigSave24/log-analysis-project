@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+.vagrant
+README.txt
+Project_Output.txt
